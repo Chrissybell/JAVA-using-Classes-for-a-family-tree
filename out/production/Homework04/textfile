@@ -1,0 +1,200 @@
+Maekar I
+Targaryen
+Maester Aemon
+Targaryen
+Aegon V
+Targaryen
+Jaehaerys II
+Targaryen
+Rhaelle
+Targaryen
+Ormund
+Baratheon
+Aerys II "the Mad"
+Targaryen
+Steffon
+Baratheon
+Tywin
+Lannister
+Joanna
+Lannister
+Rickard
+Stark
+Brandon
+Stark
+Eddard
+Stark
+Benjen
+Stark
+Lyanna
+Stark
+Rhaegar
+Targaryen
+Viserys
+Targaryen
+Daenerys
+Targaryen
+Robert
+Baratheon
+Stannis
+Baratheon
+Renly
+Baratheon
+Jaime
+Lannister
+Cersei
+Lannister
+Tyrion
+Lannister
+Robb
+Stark
+Sansa
+Stark
+Arya
+Stark
+Brandon
+Stark
+Rickon
+Stark
+Jon
+Stark
+Aegon
+Targaryen
+Shireen
+Baratheon
+Joffrey
+Baratheon
+Myrcella
+Baratheon
+Tommen
+Baratheon
+(person,mother,father)
+Maekar I
+Not known
+Not known
+-
+Maester Aemon
+Not known
+Maekar I
+-
+Aegon V
+Not known
+Maekar I
+-
+Jaehaerys II
+Not known
+Aegon V
+-
+Rhaelle
+Not known
+Aegon V
+-
+Ormund
+Not known
+Not known
+-
+Steffon
+Rhaelle
+Ormund
+-
+Robert
+Not known
+Steffon
+-
+Stannis
+Not known
+Steffon
+-
+Renly
+Not known
+Steffon
+-
+Shireen
+Not known
+Stannis
+-
+Aerys II "the Mad"
+Not known
+Jaehaerys II
+-
+Rhaegar
+Not known
+Aerys II "the Mad"
+-
+Viserys
+Not known
+Aerys II "the Mad"
+-
+Daenerys
+Not known
+Aerys II "the Mad"
+-
+Aegon
+Not known
+Rhaegar
+-
+Rickard
+Not known
+Not known
+-
+Brandon
+Not known
+Rickard
+-
+Eddard
+Not known
+Rickard
+-
+Benjen
+Not known
+Rickard
+-
+Lyanna
+Not known
+Rickard
+-
+Robb
+Not known
+Eddard
+-
+Sansa
+Not known
+Eddard
+-
+Arya
+Not known
+Eddard
+-
+Brandon
+Not known
+Eddard
+-
+Rickon
+Not known
+Eddard
+-
+Jon
+Not known
+Eddard
+-
+Jaime
+Joanna
+Tywin
+-
+Cersei
+Joanna
+Tywin
+-
+Joffrey
+Cersei
+Jaime
+-
+Myrcella
+Cersei
+Jaime
+-
+Tommen
+Cersei
+Jaime
+-
+Finish
